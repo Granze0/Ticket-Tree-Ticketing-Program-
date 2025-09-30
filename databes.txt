@@ -1,0 +1,35 @@
+Seven Samurai#Action,Adventure,Drama#8.6#Akira Kurosawa#R#AK#1#243
+Andi#Kuda,Kambing,Kodok#8.7#Abyann Nando#R#AN#3#200
+Avengers: Infinity War#Action,Adventure,Sci-fi#8.4#Anthony Russo, Joe Russo#PG#ARJR#640#500
+Ibal vs Yehu#War,Action,Game#8.6#Brhanselino Edipurtta#G#BE#4#195
+Parasite#Drama,Thriller#8.5#Bong Joon Ho#R#BJH#605#150
+Spider-Man: Into the Spider-Verse#Animation,Action,Adventure#8.4#Bob Persichetti#PG#BP#403#236
+The Dark Knight#Action,Crime,Drama#9.0#Christopher Nolan#PG#CN#5#200
+Inception#Action,Adventure,Sci-Fi#8.7#Christopher Nolan#PG#CN#6#200
+Memento#Mystery,Thriller#8.4#Christopher Nolan#R#CN#323#120
+Whiplash#Drama,Music#8.5#Damien Chazelle#R#DC#301#300
+Fight Club#Drama#8.8#David Fincher#R#DF#7#200
+Se7en#Crime,Drama,Mystery#8.6#David Fincher#R#DF#8#200
+Ada apa dengan kurso#Furnitur,Action,Drama#7.5#Damar Renteng#R#DR#10#200
+The Shawshank Redemption#Drama#9.3#Frank Darabont#R#FD#11#200
+The Godfather#Drama#9.2#Francis Ford Coppola#R#FFC#12#200
+The Godfather Part II#Drama#9.0#Francis Ford Coppola#R#FFC#13#200
+Inside Out#Drama,Animasi#8.9#Farrel Malvin#G#FM#16#295
+Spirited Away#Animation,Adventure,Family#8.6#Hayao Miyazaki#Pg#HM#29#245
+Star Wars: Episode V - The Empire Strikes Back#Action,Adventure,Fantasy#8.7#Irvin Kershner#PG#IK#17#193
+The Matrix#Action,Sci-Fi#8.7#Lana Wachowski, Lilly Wachowski#R#LW#18#200
+One Flew Over the Cuckoo's Nest#Drama#8.6#Milos Forman#R#MF#19#198
+Goodfellas#Biography,Crime,Drama#8.7#Martin Scorsese#R#MS#21#200
+Your Name.#Animation,Drama,Fantasy#8.4#Makoto Shinkai#PG#MS#29#500
+The Departed#Drama,Crime,Thirller#8.5#Matrin Scorsese#R#MS#190#230
+The Lord of the Rings: The Return of the King#Action,Adventure,Drama#8.9#Peter Jackson#PG#PJ#22#200
+The Lord of the Rings: The Fellowship of the Ring#Action,Adventure,Drama#8.8#Peter Jackson#PG#PJ#23#200
+The Lord of the Rings: The Two Towers#Action,Adventure,Drama#8.7#Peter Jackson#PG#PJ#24#250
+Pulp Fiction#Crime,Drama#8.9#Quentin Tarantino#R#QT#25#200
+Django Unchained#Comedy,Drama,Western#8.5#Quentin Tarantino#R#QT#362#300
+3 Idiots#Drama,Comedy#8.4#Rajkumar Hirani#PG#RH#29#300
+Forrest Gump#Drama,Romance#8.8#Robert Zemeckis#PG#RZ#27#203
+12 Angry Men#Crime,Drama#9.0#Sidney Lumet#A#SL#28#200
+The Good, the Bad and the Ugly#Western#8.8#Sergio Leone#R#SL#29#200
+Schindler's List#Biography,Drama,History#8.9#Steven Spielberg#R#SS#30#245
+Saving Private Ryan#Drama,War#8.6#Steven Spielberg#R#SS#31#245
